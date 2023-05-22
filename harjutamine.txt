@@ -1,2 +1,3 @@
 Github on veebipõhine platvorm, mis pakub tarkvaraaerendajatele võimalust talletada, hallata ja jagada oma koodiprojekte.
 edaspidi saan mina kasutada githubi enda isiklikude projektide jagamisele. Samas saan kasutada teiste projekte enda kasuks.
+Githubi asutas Tom Preston-Werner, Chris Wanstrath ja PJ Hyett 2008 aastal ja selle teenused said avalikuks aprillis samal aastal
